@@ -27,7 +27,7 @@ sbt sbtversion
 
 #### 1. Clone the project.
 ```bash
-git clone https://github.com/akashkr17/assign-sbt.git
+git clone https://github.com/akashkr17/assign2-oops.git
 ```
 
 #### 2.Start the sbt server using command
