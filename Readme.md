@@ -3,8 +3,7 @@
 # Overview
 
 ### This Project has class named Person and mix it with Ordered Trait to do the comparison
-#### It checks if the name parameter of both objects is equal. If yes, then do the comparison according to age.
-If name is not equal then do the comparison based on name length.
+##### It checks if the name parameter of both objects is equal. If yes, then do the comparison according to age.If name is not equal then do the comparison based on name length.
 
 
 # Installation of Sbt and scala
